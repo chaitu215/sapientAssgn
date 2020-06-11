@@ -1,0 +1,33 @@
+{
+  "name": "rdg-cell-editing",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "axios": "^0.19.2",
+    "immutable": "3.8.2",
+    "primereact": "latest",
+    "react": "16.5.2",
+    "react-bootstrap": "0.32.4",
+    "react-bootstrap-table-next": "^4.0.2",
+    "react-data-grid": "5.0.1",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3",
+    "react-table": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
